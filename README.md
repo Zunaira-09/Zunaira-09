@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zunaira-09
+- 👋 Hi, I’m anonymouslysickk09
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
